@@ -28,4 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetnamohata&show_icons=true&locale=en" alt="chetnamohata" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetnamohata&" alt="chetnamohata" /></p>
-
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chetnamohata/count.svg" />
+</p>
